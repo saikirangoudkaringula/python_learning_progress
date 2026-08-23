@@ -3,38 +3,62 @@ My daily Python learning journey for Data Analytics, Data Science &amp; Machine 
 
 # 🐍 Python Learning Journey
 
-Welcome to my **Python Learning Journey** repository.
+This repository contains my daily Python learning, coding practice, problem-solving, debugging, and progress.
 
-I am building my Python fundamentals through daily practice, problem-solving, and GitHub commits as preparation for my goal of becoming a:
+My long-term goal is to build strong skills in:
 
-- Data Scientist
-- ML Engineer
-- Generative AI Engineer
-- Agentic AI Engineer
+**Python → Data Science → Machine Learning → Generative AI → Agentic AI**
 
 ---
 
-## 🎯 My Goal
+## 📚 Topics Covered So Far
 
-My learning path:
+### Python Fundamentals
 
-Python → Data Science → Machine Learning → Generative AI → Agentic AI
+- Variables
+- Data Types
+- Type Casting
+- Input and Output
+- Arithmetic Operators
+- Comparison Operators
+- Logical Operators
+- Bitwise Operators
+- Boolean Values
+- Basic Python Syntax
 
-I focus on understanding concepts through practical coding instead of only memorizing syntax.
+### Conditional Statements
 
----
+- `if`
+- `if-else`
+- `if-elif-else`
+- Nested conditions
+- Conditions with logical operators
+- Pass / Fail problems
 
-## 📚 Topics Learned
+### Loops
 
-### 1. Python Lists
+- `for` loop
+- `while` loop
+- `range()`
+- Loop conditions
+- Counters
+- `break`
+- `continue`
+- Nested loops
+- Iterating through lists
+- Number counting
+- Factorial
+- Reversing numbers
+- Counting digits
 
-Topics practiced:
+### Lists
 
 - Creating lists
-- Accessing elements
+- Accessing list elements
 - Positive indexing
 - Negative indexing
 - List slicing
+- Iterating through lists
 - `append()`
 - `extend()`
 - `insert()`
@@ -44,10 +68,12 @@ Topics practiced:
 - `len()`
 - `sort()`
 - Reverse sorting
-- Looping through lists
-- `enumerate()`
+- Adding and removing elements
+- Working with conditions inside lists
 
-Example:
+### `enumerate()`
+
+Learned how to get both index and value while looping.
 
 ```python
 skills = ["Python", "SQL", "Pandas", "Machine Learning"]
