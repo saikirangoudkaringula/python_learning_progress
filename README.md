@@ -1,5 +1,6 @@
 # python_learning_progress
-My daily Python learning journey for Data Analytics, Data Science &amp; Machine Learning — covering fundamentals, loops, functions, lists, comprehensions, sets, dictionaries, and practical exercises
+
+My daily Python learning journey for Data Analytics, Data Science & Machine Learning — covering fundamentals, loops, functions, lists, comprehensions, sets, dictionaries, and practical exercises.
 
 # 🐍 Python Learning Journey
 
@@ -14,7 +15,6 @@ My long-term goal is to build strong skills in:
 ## 📚 Topics Covered So Far
 
 ### Python Fundamentals
-
 - Variables
 - Data Types
 - Type Casting
@@ -27,7 +27,6 @@ My long-term goal is to build strong skills in:
 - Basic Python Syntax
 
 ### Conditional Statements
-
 - `if`
 - `if-else`
 - `if-elif-else`
@@ -36,7 +35,6 @@ My long-term goal is to build strong skills in:
 - Pass / Fail problems
 
 ### Loops
-
 - `for` loop
 - `while` loop
 - `range()`
@@ -52,7 +50,6 @@ My long-term goal is to build strong skills in:
 - Counting digits
 
 ### Lists
-
 - Creating lists
 - Accessing list elements
 - Positive indexing
@@ -72,19 +69,15 @@ My long-term goal is to build strong skills in:
 - Working with conditions inside lists
 
 ### `enumerate()`
-
 Learned how to get both index and value while looping.
 
 ```python
 skills = ["Python", "SQL", "Pandas", "Machine Learning"]
-
 for i, skill in enumerate(skills):
     print(f"{i}: {skill}")
+```
 
-
-
-### '2. List Comprehension'
-
+### 2. List Comprehension
 - Basic List Comprehension
 - List Comprehension with Conditions
 - Conditional Expressions
@@ -92,7 +85,6 @@ for i, skill in enumerate(skills):
 - Transforming List Values
 
 ### 3. Sets
-
 - Creating Sets
 - Removing Duplicates
 - `add()`
@@ -107,13 +99,11 @@ for i, skill in enumerate(skills):
 - Symmetric Difference
 
 ### 4. Set Comprehension
-
 - Creating Sets using Comprehension
 - Applying Expressions to Set Elements
 - Automatically Handling Duplicate Results
 
 ### 5. Dictionaries
-
 - Creating Dictionaries
 - Key-Value Pairs
 - Accessing Values
@@ -121,7 +111,6 @@ for i, skill in enumerate(skills):
 - Updating Dictionary Data
 
 ### 6. Dictionary Comprehension
-
 - Coming Next ⏳
 
 ---
@@ -129,7 +118,6 @@ for i, skill in enumerate(skills):
 # ⭐ Key Takeaways
 
 ### Lists
-
 - Lists are **ordered and mutable**.
 - Lists allow **duplicate values**.
 - Use indexing and slicing to access data.
@@ -137,13 +125,11 @@ for i, skill in enumerate(skills):
 - Use `enumerate()` when you need both **index and value**.
 
 ### List Comprehension
-
 - Provides a shorter way to create lists.
 - Can be used for **filtering and transforming data**.
 - Useful when the logic is simple and readable.
 
 ### Sets
-
 - Sets store **unique values**.
 - Sets are useful for **removing duplicates**.
 - Sets support mathematical operations such as:
@@ -153,18 +139,15 @@ for i, skill in enumerate(skills):
   - Symmetric Difference
 
 ### Set Comprehension
-
 - Creates sets using a compact syntax.
 - Automatically keeps results **unique**.
 
 ### Dictionaries
-
 - Dictionaries store data as **key-value pairs**.
 - Keys are used to access corresponding values.
 - Useful for representing structured information.
 
 ### Dictionary Comprehension
-
 - Used to create dictionaries using a concise expression.
 - **Next topic to learn.**
 
