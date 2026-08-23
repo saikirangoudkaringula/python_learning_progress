@@ -83,7 +83,7 @@ for i, skill in enumerate(skills):
 
 
 
-### 2. List Comprehension
+### '2. List Comprehension'
 
 - Basic List Comprehension
 - List Comprehension with Conditions
